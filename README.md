@@ -6,10 +6,10 @@ EDIT: This release is a re-upload of one precious upload which was incomplete
 
 The above graph shows Visualizing data related to a country 
 
-![](images/derivative%20of%20first%20curve.PNG)
 
-Caculating the first derivative of the curve
+
+
 
 ![](images/GDPVsMAX.PNG)
 
-Plotting GDP vs maximum Infection rate
+
